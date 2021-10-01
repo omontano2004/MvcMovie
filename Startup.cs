@@ -52,8 +52,6 @@ namespace MvcMovie
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-
         }
     }
-
 }

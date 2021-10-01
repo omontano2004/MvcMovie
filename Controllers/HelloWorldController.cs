@@ -19,7 +19,6 @@ namespace MvcMovie.Controllers
             return "This is my default action...";
         }
 
-
         // GET: /HelloWorld/Welcome/ 
         // Requires using System.Text.Encodings.Web;
         public string Welcome(string name, int numTimes = 1)
